@@ -1,10 +1,11 @@
 # mlise2021
-MLiSEv1
 
-This is a website.
-Copyright 2021
-By: Philippe Fournier-Viger, Saqib Nawaz, Meng Sun, Sebastian Ventura 2021
+This the website of the MLISE 2021 workshop.
 
-Created using Template by css3templates.co.uk
-Also using News Cycle Font under the SIL OFL License, and JQuery and Modernizr
+Copyright 2021,   Philippe Fournier-Viger, Saqib Nawaz, Meng Sun, Sebastian Ventura 2021
+
+Based on: 
+- A Template by css3templates.co.uk
+- News Cycle Font under the SIL OFL License
+- JQuery and Modernizr
 
